@@ -1,0 +1,25 @@
+
+
+1.       A New Face Recognition using PCA, LDA and Neural Classifier   	 	 	www.waset.org/journals/waset/v41/v41-2.pdf         
+2.       Atick.J, and Penev P. ``Local feature analysis: A general statistical theory   	for object Representation,'' Network: Computation in Neural Systems, vol. 	7, pp. 477-500, 1996.
+
+3         Chai. D., S. L. Phung and A. Bouzerdoum A Bayesian Skin/Non- Skin 	 	Color Classifier Using Nonparametric Density Estimation in the 	proceedings 	 	of IEEE.
+4        Chellappa.R, K. Etemad and      ` Discriminant analysis for    	recognition 	of human face images,'' Journal of the Optical Society of 	America, vol. 14, 	pp. 1724-1733,   
+5        Choudhury  T, B. Clarkson, T. Jebara, and A. Pentland, 
+          ``Multimodal person recognition using unconstrained audio and video,'' 
+          in Proceedings of the Second Conference on Audio- and Video-based Person  	Authentication, Washington, D.C., March 1999. 
+ 6       Evaluation of Face recognition algorithm. The CSU Face Identification 	Evaluation System, Version 5.0.	[http://www.cs.colostate.edu/evalfacerec/algorithms5 .html], 2005.
+ 7         Face Recognition Home Page., www.face-rec.org .
+ 8        FERET Database  http://www.itl.nist.gov/iad/humanid/feret/.
+  9       Gonzalez, Woods, and Eddins., Digital Image Processing Using  	 		 MATLAB 2nd  Ed by © 2009. Gatesmark Publishing.
+10       Jayaraman .S, 2009. ‘Digital Image Processing, McGraw-Hil’.
+11      Moghaddam B and A. Pentland, 
+         “Probabilistic visual recognition for object recognition,'' 
+          IEEE Pattern Analysis and Machine Intelligence, vol. 19, no. 7, pp. 696-710.
+12      Smith L. I.  A tutorial on principal components analysis   
+13       M. Turk and A. Pentland. Eigen faces for recognition. Journal of  Cognitive 	Neuroscience, 3 (1), 1991a 	 	 	URL http://www.cs.ucsb.edu/ mturk/Papers/jcn.pdf .
+14          Turk D. G, R. 0. Duda, and  P. E. Hart, Pattern
+            Classification. New York John Wiley & sons, Inc., 2001
+
+ 15       W. Zhao, R. Chellappa, P. J. Phillips and A. Rosenfeld. Face Recognition:  	 	 A Literature Survey. ACM Computing Surveys, vol. 35(4):399-458, Dec 	 	 2003. 
+ 16       Yale Database Group http://db.cs.yale.edu/
